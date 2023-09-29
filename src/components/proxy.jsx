@@ -6,7 +6,6 @@ import FullscreenIcon from "@mui/icons-material/Fullscreen";
 import RefreshIcon from "@mui/icons-material/Refresh";
 import CloseIcon from "@mui/icons-material/Close";
 import { getWindowLocation } from "../util.jsx";
-import "../style/controls.css";
 import BareClient from "@tomphttp/bare-client";
 import { useSearchParams } from "react-router-dom";
 
