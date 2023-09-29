@@ -1,7 +1,6 @@
 import React, { Suspense } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
 import "../i18n.jsx";
-import "../style/index.css";
 import "../proxy.jsx";
 import Background from "../components/background.jsx";
 import SettingsLayout from "../SettingsLayout.jsx";
