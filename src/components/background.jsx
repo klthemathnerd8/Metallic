@@ -2,14 +2,7 @@ import React from "react";
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 
-import particles from "../assets/backgrounds/particles.json";
-import stars from "../assets/backgrounds/stars.json";
-import blocks from "../assets/backgrounds/blocks.json";
-import triangles from "../assets/backgrounds/triangles.json";
-import balls from "../assets/backgrounds/balls.json";
-import bubbles from "../assets/backgrounds/bubbles.json";
-import sus from "../assets/backgrounds/sus.json";
-import { useLocalBackground } from "../settings.jsx";
+
 
 var backgrounds = {
   particles,
